@@ -1,8 +1,8 @@
 # ✨ PKCE-Generator ✨
-**_Code Verifier And Code Challenge Bypass For Web Site Encryptions._**
+**_Code Verifier And Code Challenge Algorithm._**
 
 ##  👾 Features 
-- _Generating Code_Challenge And Code_Verifier for PKCE Bypass_
+- _Generating Code_Challenge And Code_Verifier for PKCE_
 
 ## ✍️ Usage 
 **Windows:**
